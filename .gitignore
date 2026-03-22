@@ -1,0 +1,12 @@
+# Ignore CSV files
+*.csv
+
+# Ignore model files
+*.pkl
+*.h5
+*.joblib
+*.sav
+*.model
+
+# Ignore virtual environment
+MLP305/
